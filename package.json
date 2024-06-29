@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@aws-sdk/client-sns": "^3.606.0",
+    "@aws-sdk/client-sqs": "^3.606.0",
+    "aws-sdk": "^2.1651.0",
+    "body-parser": "^1.20.2",
+    "express": "^4.19.2"
+  }
+}
